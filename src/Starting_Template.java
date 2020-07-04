@@ -20,5 +20,8 @@ public class Starting_Template extends java.lang.Object
 		jo.turnLeft();
 		jo.move();
 		jo.move();
+		jo.move();
+		jo.move();
+		
 	} 
 }
